@@ -1,0 +1,2 @@
+# ArewadataScience_30Days_of_Python
+Exercises for Arewads Fellowship
